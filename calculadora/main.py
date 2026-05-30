@@ -15,7 +15,7 @@ from funcoes.raiz import raiz
 
 while True:
     print("\nseja bem vindo a calculadora")
-    print("escola a operação que deseja realizar:")
+    print("escolha a operação que deseja realizar:")
     print("1. Adição")
     print("2. Subtração")
     print("3. Multiplicação")
